@@ -1,0 +1,6 @@
+C:\Users\Night\source\repos\CSharpConsoleApp1\CSharpConsoleApp1\bin\Debug\CSharpConsoleApp1.exe
+C:\Users\Night\source\repos\CSharpConsoleApp1\CSharpConsoleApp1\bin\Debug\CSharpConsoleApp1.pdb
+C:\Users\Night\source\repos\CSharpConsoleApp1\CSharpConsoleApp1\obj\Debug\CSharpConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Night\source\repos\CSharpConsoleApp1\CSharpConsoleApp1\obj\Debug\CSharpConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Night\source\repos\CSharpConsoleApp1\CSharpConsoleApp1\obj\Debug\CSharpConsoleApp1.exe
+C:\Users\Night\source\repos\CSharpConsoleApp1\CSharpConsoleApp1\obj\Debug\CSharpConsoleApp1.pdb
